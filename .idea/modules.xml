@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ApplicationMeteo.iml" filepath="$PROJECT_DIR$/ApplicationMeteo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoinCardMeteo-git.iml" filepath="$PROJECT_DIR$/CoinCardMeteo-git.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
