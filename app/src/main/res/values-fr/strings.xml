@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin Card Meteo</string>
+
+    <string name="navigation_drawer_open">Ouvrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fermer navigation drawer</string>
+    <string name="login"> Identifiant </string>
+    <string name="home"> Accueil </string>
+    <string name="favorites"> Mes Favoris </string>
+    <string name="search"> Recherches </string>
+    <string name="notification"> Notification </string>
+    <string name="settings"> Paramètres </string>
+    <string name="about"> À propos </string>
+    <string name="action_settings">Paramètres</string>
+</resources>
